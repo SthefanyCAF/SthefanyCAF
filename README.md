@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-sthefany.png" alt="Banner Sthéfany" width="100%">
+</p>
+
 # Olá, eu sou a Sthéfany! 👋
 
 ### 🎓 Formação & Foco Profissional
