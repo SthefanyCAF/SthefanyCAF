@@ -14,7 +14,7 @@ Atualmente, aprofundo meus estudos em Engenharia de Dados, unindo a base acadêm
 
 ### 📊 Destaques de Projetos e Impacto
 
-* **Data Engineer Fundamentals:** Especialização prática em **SQL Server Integration Services (SSIS)**, modelagem de bancos de dados e fluxos de automação de dados (ETL).
+* **Data Engineer Fundamentals:** Aplicação prática em **SQL Server Integration Services (SSIS)**, modelagem de bancos de dados e fluxos de automação de dados (ETL).
 * **Análise de Dados & Gênero:** Estruturei um estudo de caso sobre o protagonismo feminino na tecnologia (**Data Hackers 2024**), analisando desigualdades e propondo um plano de capacitação estratégico.
 * **Educação & IA:** Atuação em projeto de extensão focado na democratização do conhecimento sobre Inteligência Artificial para comunidades com baixo acesso.
 
