@@ -31,6 +31,16 @@ Atualmente, aprofundo meus estudos em Engenharia de Dados, unindo a base acadêm
 
 ---
 
+### 🌐 Idiomas
+
+| Idioma | Nível | Competências |
+| :--- | :--- | :--- |
+| **Português** | Nativo | Língua materna |
+| **Inglês** | Avançado | Leitura, escrita e conversação técnica |
+| **Espanhol** | Intermediário | Leitura, escrita e conversação |
+
+---
+
 ### 🧠 Perfil Comportamental
 Com uma experiência profissional consolidada ao longo da última década, desenvolvi maturidade para lidar com problemas complexos e uma forte capacidade de adaptação. Minha trajetória me proporcionou um pensamento crítico apurado, organização rigorosa e facilidade em atuar com metodologias ágeis (Scrum/Kanban).
 
