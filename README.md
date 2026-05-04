@@ -75,4 +75,5 @@ Busco minha entrada no mercado de trabalho em posições de **Nível Júnior ou 
 
 ### 📫 Vamos nos conectar?
 Estou sempre aberta a trocar conhecimentos sobre tecnologia e dados!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanycaf/)
